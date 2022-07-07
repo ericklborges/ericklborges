@@ -4,18 +4,10 @@ I'm a Swift developer who primarily focusses on iOS since 2018, and a begginer W
 
 Currently, I work on the [Stone Co.](https://github.com/stone-payments) iOS app supporting thousands of retailers every day :D
 
-- 🌱 I’m currently learning **web development with Nxt.js**
+- 🌱 I’m currently learning **leadership skills**
 - 👯 I’m looking to collaborate on **Swift open source**
 - 💬 Ask me about anything about **view coding with UIKit**
 - ⚡ Fun fact: tabs > spaces
-
-### iOS thoughts
-
-- AloeStackView, TinyConstraints, Swiftgen and Swiftlint are must have frameworks
-- UIKit with View Coding to build interfaces FTW (don't know SwiftUI yet)
-- UIStackViews whenever possible
-- Github Actions or Bitrise goes well with Fastlane for a CI
-- Danger helps me keep Pull Requests in order
 
 ### Contact me
 
