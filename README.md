@@ -4,10 +4,9 @@ I'm a Swift developer who primarily focusses on iOS since 2018, and a begginer W
 
 Currently, I am an iOS tech lead at [Stone Co.](https://github.com/stone-payments), supporting thousands of retailers every day :D
 
-- 🌱 I’m currently learning **leadership skills**
+- 🌱 I’m currently learning **swift macros**
 - 👯 I’m looking to collaborate on **Swift open source**
 - 💬 Ask me about anything about **view coding with UIKit**
-- ⚡ Fun fact: tabs > spaces
 
 ### Contact me
 
