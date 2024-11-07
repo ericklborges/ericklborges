@@ -1,8 +1,8 @@
 ## Hi there, I'm Erick Borges 👋 
 
-I'm a Swift developer who primarily focusses on iOS since 2018, and a begginer Web developer.
+I'm a Swift developer who primarily focusses on iOS since 2018.
 
-Currently, I am an iOS tech lead at [Stone Co.](https://github.com/stone-payments), supporting thousands of retailers every day :D
+Currently, I am a Senior iOS engineer lead at Zooplus, supporting thousands of pet parents every day :D
 
 - 🌱 I’m currently learning **swift macros**
 - 👯 I’m looking to collaborate on **Swift open source**
