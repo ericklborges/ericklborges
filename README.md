@@ -2,7 +2,7 @@
 
 I'm a Swift developer who primarily focusses on iOS since 2018.
 
-Currently, I am a Senior iOS engineer lead at Zooplus, supporting thousands of pet parents every day :D
+Currently, I am a Senior iOS engineer at Zooplus, supporting thousands of pet parents every day :D
 
 - 🌱 I’m currently learning **swift macros**
 - 👯 I’m looking to collaborate on **Swift open source**
